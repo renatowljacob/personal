@@ -14,4 +14,5 @@ Nothing worth mentioning for now
 ## current interests
 Computer architecture;<br>
 Data modeling;<br>
-Shell scripting
+Shell scripting;<br>
+Anki
