@@ -1,32 +1,11 @@
-# about me
-Greetings, my name is Renato and currently I'm a student at FATEC Diadema in
-Brazil.<br>
-If you'd like to get in touch, send me a message here or to my email:
-renatow.jacob@proton.me<br><br>
-Saudações, meu nome é Renato e, no momento, sou um estudante na FATEC Diadema.
-<br>
-Caso queira entrar em contato, envie-me uma mensagem aqui ou em meu email:
-renatow.jacob@proton.me
+# about
 
-## things I like / coisas que gosto
-- C;<br>
-- Free software;<br>
-- Linux **(I use Arch btw)**;<br>
-- Simplicity / Simplicidade
+I like vim and terminals
 
-## current interests / interesses no momento
-- Lua;
-- Rust;
-- Go;
-- HTMX
+## contact
 
-## tools
-- **OS:** [**Arch Linux**](https://archlinux.org/)
-- **Window Manager:** [**DuskWM**](https://github.com/bakkeby/dusk/wiki)
-- **Text Editor:** [**Neovim**](https://neovim.io/)
-- **Shell:** [**Zsh**](https://www.zsh.org/)
-- **Terminal Multiplexer:** [**tmux**](https://github.com/tmux/tmux/wiki)
+E-mail: renatow.jacob@proton.me
 
-## languages
-- **C**
-- **Shell**
+## my config
+
+[here](https://github.com/renatowljacob/dotfiles)
